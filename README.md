@@ -1,0 +1,2 @@
+# AritmatikaGet
+melakukan operasi aritmateika
